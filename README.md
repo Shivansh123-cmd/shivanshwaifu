@@ -1,4 +1,4 @@
-<h1 align="center"><b>𝐆ᴏᴊᴏꭙ 𝐍ᴇᴛᴡᴏʀᴋ</b></h1>
+<h1 align="center"><b>� ʜ ɪ ᴠ ᴀ ɴ ꜱ ʜ | ˹𐩃˼ ‹⤹</b></h1>
 
 </h2>
 
@@ -21,5 +21,12 @@
   &nbsp;
   <a href="https://t.me/ZyroBotCodes">
     <img src="https://img.shields.io/badge/Join%20Channel-Telegram-blue?logo=telegram" alt="Join Telegram Channel">
+  </a>
+</p>
+<h3> 💻 VPS 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
+
+<p align="center">
+  <a href="idar apka link aye gha vps guide ka ok"> 
+    <img src="https://img.shields.io/badge/Deploy%20On%20VPS-blue?style=for-the-badge&logo=linux" width="220" height="38.45"/>
   </a>
 </p>
